@@ -15,4 +15,4 @@ steps:
     CopyRoot: '/'
     Contents: '*'
     ArtifactName: 'react'
-    ArtifactType: 'FilePath'
+    ArtifactType: 'server'
